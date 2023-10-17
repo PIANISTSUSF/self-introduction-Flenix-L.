@@ -242,7 +242,7 @@ body {
         background-color: #081b29;
         position: absolute;
         margin-right: 300px;
-        margin-bottom: -1600px;
+        margin-bottom: -80px;
         right: 0;
         width: 100px;
         background: transparent;
@@ -254,8 +254,8 @@ body {
     }
 
     .navbar a{
-        margin: 10px;
-        font-size: 15px;
+        margin: 16px;
+        font-size: 12px;
         text-decoration: none;
     }
 
