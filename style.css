@@ -237,7 +237,7 @@ body {
 /*resolution adjustment*/
 
 
-@media (max-width: 767px) {
+@media (max-width: 500px) {
     #menu-icon{
         display: block;
     }
