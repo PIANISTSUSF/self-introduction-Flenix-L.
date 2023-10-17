@@ -237,10 +237,7 @@ body {
 /*resolution adjustment*/
 
 
-@media (max-width: 500px) {
-    #menu-icon{
-        display: block;
-    }
+@media (max-width: 969px) {
     .navbar{
         background-color: #081b29;
         position: absolute;
