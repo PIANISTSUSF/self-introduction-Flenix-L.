@@ -365,7 +365,7 @@ body {
         justify-content: space-between;
     }
     
-    .home-sci a {
+    .home-sci a i {
         display: inline-flex;
         width: 40px;
         height: 40px;
